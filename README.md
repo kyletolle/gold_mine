@@ -15,6 +15,7 @@ mine.begin_mining
 mine.amount_uncollected # => 3
 mine.collect_gold       # => 3
 mine.last_collected_at  # => 1419180548
+mine.amount_uncollected # => 0
 ```
 
 ## Development
